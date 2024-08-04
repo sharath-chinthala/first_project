@@ -1,5 +1,5 @@
 # first_project
 this is a demo project
 <br>
-author:sharath patel
+author:sharath chinthala
 
